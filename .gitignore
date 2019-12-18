@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+functions.ipynb
+Cleaning_Data.ipynb
